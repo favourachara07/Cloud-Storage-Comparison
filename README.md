@@ -1,9 +1,9 @@
 # Cloud Storage Comparison: GCS vs. AWS S3 vs. Azure Blob Storage
-##GCS Video Link: 
+## GCS Video Link: 
 
-##AWS Video Link: 
+## AWS Video Link: 
 
-##Azure Video Link: 
+## Azure Video Link: 
 
 ## Introduction
 Cloud storage is a crucial component of modern distributed systems, offering scalable, secure, and cost-efficient data management. This document summarizes the key differences between **Google Cloud Storage (GCS)**, **Amazon S3 (AWS)**, and **Azure Blob Storage**, highlighting their features, advantages, and ideal use cases.
